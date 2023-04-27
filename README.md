@@ -1,4 +1,4 @@
-# Python CFB REcruiting Rankings Project
+# Python CFB Recruiting Rankings Project
 This contains code, visualizations, and analysis for a CFB Rankings Project completed while at CareerFoundry. <br>
 ## Objective
 To find any correlation between the ratings, rankings, and star ratings of each player.<br><br>
